@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613269228 source:c:\users\angel sanchez\desktop\programming\c++\data structures\linkedlist\linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1613269179 c:\users\angel sanchez\desktop\programming\c++\data structures\linkedlist\linkedlist\linkedlist.h
+	"node.h"
+
+1613266696 c:\users\angel sanchez\desktop\programming\c++\data structures\linkedlist\linkedlist\node.h
+
